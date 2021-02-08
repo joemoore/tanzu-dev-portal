@@ -44,8 +44,8 @@ Where possible, integrate testing into the Continuous Integration (CI) pipeline 
 The most successful Tanzu Labs customers have assembled a small team of employees to drive the initiative. This team uses prioritization models to make effective decisions -- through technical, business and organizational lenses. They work on getting apps into production while automating existing release management processes. As work is done, they capture lessons, patterns and techniques in a cookbook to help accelerate future efforts. Successful modernization teams include these roles:
 
 ---
-| PRODUCT OWNER | UX DESIGNER | ANCHOR | DEVELOPER |
-| --------------|--------|------------|
+| PRODUCT OWNER | ANCHOR | DEVELOPER |
+| --------------|------------|------------|
 |Owns prioritization, coordination and measurement. Ensures the team stays unblocked from issues and communicates results. |Technical leader who pairs with a product owner on backlog, guides technical practices, and does hands-on technical work.|Architect developers who know the existing app and underpinning stacks. They grow cloud native skills as they do the work. |
 ---
 ### Break things down
