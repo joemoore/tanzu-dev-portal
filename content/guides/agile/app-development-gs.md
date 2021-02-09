@@ -44,9 +44,9 @@ Where possible, integrate testing into the Continuous Integration (CI) pipeline 
 The most successful Tanzu Labs customers have assembled a small team of employees to drive the initiative. This team uses prioritization models to make effective decisions -- through technical, business and organizational lenses. They work on getting apps into production while automating existing release management processes. As work is done, they capture lessons, patterns and techniques in a cookbook to help accelerate future efforts. Successful modernization teams include these roles:
 
 ---
-| PRODUCT OWNER | ANCHOR | DEVELOPER |
-| --------------|------------|------------|
-|Owns prioritization, coordination and measurement. Ensures the team stays unblocked from issues and communicates results. |Technical leader who pairs with a product owner on backlog, guides technical practices, and does hands-on technical work.|Architect developers who know the existing app and underpinning stacks. They grow cloud native skills as they do the work. |
+| PRODUCT OWNER | UX DESIGNER | ANCHOR | DEVELOPER |
+| --------------|-------------|--------|-----------|
+|Owns prioritization, coordination and measurement. Ensures the team stays unblocked from issues and communicates results. | Owns both the visual design and user experience of the app. |Technical leader who pairs with the product owner and designer on backlog, guides technical practices, and does hands-on technical work.|Architect-developers who know the existing app and underpinning stacks. They grow cloud native skills as they do the work. |
 ---
 ### Break things down
 Many of your existing apps will move to cloud without much effort, while others (where it makes business sense) should be broken down into cloud native architectural components. A smaller number (hopefully) could be described as a “system of systems” that include dozens of deployable artifacts across a network of servers and backends (such as mainframes). These systems may appear to require significant investment, which can be daunting.
@@ -80,18 +80,6 @@ Waiting to untangle legacy applications that hinder a better customer experience
 -------------
 -------------
 
-### What Is App Development?
-Most developers work on existing applications: Products and services that have been built, maintained and updated over long periods of time. Normally, these apps exist as a web of tightly coupled, sparsely documented systems. Over time, large organizations develop layers of manual processes designed to minimize risk and ensure compliance. As a result, software releases are often infrequent, high-ceremony events that require heroism and brute force. This bleak status quo is untenable for businesses that want to compete and win in the digital age. The question you need to answer is simply: “How can I modernize my most important apps so I can get new features to production faster?”There is hope. Your existing portfolio can be transformed iteratively and in a way that reduces time, cost, and operational inefficiencies, while increasing security, resiliency, and compliance.
-
-### Before You Begin
-
-There are a few things you need to do before getting started with App Development:
-
-- Step 1
-
-- Step 2
-
-### Using App Development
 
 ### What Are the Key Considerations and Decisions to Make?
 
