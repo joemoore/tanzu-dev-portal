@@ -6,7 +6,7 @@ length: "1.5 hours per run; multiple runs are often needed"
 participants: "Business stakeholders, architects, technical leads, developers "
 image: "boris/boris.png"
 description: "Identify relationships between services in a complex system to reveal the notional target system architecture and record them using SNAP"
-lastmod: "2019-12-09"
+lastmod: "2019-12-10"
 
 why:
 - Explore and understand a complex system
