@@ -54,7 +54,7 @@ what:
 
 1. Indicate if a queue is needed by adding them in a new sticky note of the same color for a queue/topic. Add in the lines for what systems are talking to it.
 
-1. Using a new sticky note of a different color, indicate if there are external systems as part of the flow. Add in the lines for how it is communicated with in the flow.
+1. Using a new sticky note of a different color, indicate if there are external systems as part of the flow. Add in the lines for how it is communicated with in the flow. This is the thing you need.
 
 1. Create SNAP lists on large sheets.
 
